@@ -1,0 +1,9 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\bai2\bin\Debug\bai2.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\bai2\bin\Debug\bai2.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\bai2\bin\Debug\bai2.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\bai2\obj\Debug\bai2.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\bai2\obj\Debug\bai2.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\bai2\obj\Debug\bai2.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\bai2\obj\Debug\bai2.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\bai2\obj\Debug\bai2.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\bai2\obj\Debug\bai2.Form2.resources

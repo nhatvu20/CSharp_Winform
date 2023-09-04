@@ -1,0 +1,11 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De12\bin\Debug\De12.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De12\bin\Debug\De12.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De12\bin\Debug\De12.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De12\obj\Debug\De12.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De12\obj\Debug\De12.Form1.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De12\obj\Debug\De12.Khoa.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De12\obj\Debug\De12.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De12\obj\Debug\De12.XemDiem.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De12\obj\Debug\De12.csproj.GenerateResource.Cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De12\obj\Debug\De12.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De12\obj\Debug\De12.pdb

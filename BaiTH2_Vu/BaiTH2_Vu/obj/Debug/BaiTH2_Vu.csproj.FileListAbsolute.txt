@@ -1,0 +1,6 @@
+c:\users\sinhvien\documents\visual studio 2013\Projects\BaiTH2_Vu\BaiTH2_Vu\bin\Debug\BaiTH2_Vu.exe.config
+c:\users\sinhvien\documents\visual studio 2013\Projects\BaiTH2_Vu\BaiTH2_Vu\bin\Debug\BaiTH2_Vu.exe
+c:\users\sinhvien\documents\visual studio 2013\Projects\BaiTH2_Vu\BaiTH2_Vu\bin\Debug\BaiTH2_Vu.pdb
+c:\users\sinhvien\documents\visual studio 2013\Projects\BaiTH2_Vu\BaiTH2_Vu\obj\Debug\BaiTH2_Vu.csprojResolveAssemblyReference.cache
+c:\users\sinhvien\documents\visual studio 2013\Projects\BaiTH2_Vu\BaiTH2_Vu\obj\Debug\BaiTH2_Vu.exe
+c:\users\sinhvien\documents\visual studio 2013\Projects\BaiTH2_Vu\BaiTH2_Vu\obj\Debug\BaiTH2_Vu.pdb

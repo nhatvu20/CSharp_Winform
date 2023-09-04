@@ -1,0 +1,7 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\BaiTapVeClass\bin\Debug\BaiTapVeClass.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\BaiTapVeClass\bin\Debug\BaiTapVeClass.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\BaiTapVeClass\bin\Debug\BaiTapVeClass.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\BaiTapVeClass\obj\Debug\BaiTapVeClass.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\BaiTapVeClass\obj\Debug\BaiTapVeClass.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\BaiTapVeClass\obj\Debug\BaiTapVeClass.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\BaiTapVeClass\obj\Debug\BaiTapVeClass.pdb

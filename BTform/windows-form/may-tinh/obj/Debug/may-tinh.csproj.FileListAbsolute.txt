@@ -1,0 +1,11 @@
+D:\hoc-tap\lap-trinh\c#\windows-form\may-tinh\bin\Debug\may-tinh.exe.config
+D:\hoc-tap\lap-trinh\c#\windows-form\may-tinh\bin\Debug\may-tinh.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\may-tinh\bin\Debug\may-tinh.pdb
+D:\hoc-tap\lap-trinh\c#\windows-form\may-tinh\obj\Debug\may-tinh.csproj.AssemblyReference.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\may-tinh\obj\Debug\may-tinh.csproj.SuggestedBindingRedirects.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\may-tinh\obj\Debug\may_tinh.Form1.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\may-tinh\obj\Debug\may_tinh.Properties.Resources.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\may-tinh\obj\Debug\may-tinh.csproj.GenerateResource.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\may-tinh\obj\Debug\may-tinh.csproj.CoreCompileInputs.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\may-tinh\obj\Debug\may-tinh.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\may-tinh\obj\Debug\may-tinh.pdb

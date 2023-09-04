@@ -1,0 +1,10 @@
+C:\Users\nguye\source\repos\De-01-ck\De-01-ck\bin\Debug\De-01-ck.exe.config
+C:\Users\nguye\source\repos\De-01-ck\De-01-ck\bin\Debug\De-01-ck.exe
+C:\Users\nguye\source\repos\De-01-ck\De-01-ck\bin\Debug\De-01-ck.pdb
+C:\Users\nguye\source\repos\De-01-ck\De-01-ck\obj\Debug\De-01-ck.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\De-01-ck\De-01-ck\obj\Debug\De_01_ck.Form1.resources
+C:\Users\nguye\source\repos\De-01-ck\De-01-ck\obj\Debug\De_01_ck.Properties.Resources.resources
+C:\Users\nguye\source\repos\De-01-ck\De-01-ck\obj\Debug\De-01-ck.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\De-01-ck\De-01-ck\obj\Debug\De-01-ck.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\De-01-ck\De-01-ck\obj\Debug\De-01-ck.exe
+C:\Users\nguye\source\repos\De-01-ck\De-01-ck\obj\Debug\De-01-ck.pdb

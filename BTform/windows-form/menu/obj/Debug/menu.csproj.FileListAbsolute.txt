@@ -1,0 +1,11 @@
+D:\hoc-tap\lap-trinh\c#\windows-form\menu\bin\Debug\menu.exe.config
+D:\hoc-tap\lap-trinh\c#\windows-form\menu\bin\Debug\menu.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\menu\bin\Debug\menu.pdb
+D:\hoc-tap\lap-trinh\c#\windows-form\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\menu\obj\Debug\menu.csproj.SuggestedBindingRedirects.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\menu\obj\Debug\menu.Form1.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\menu\obj\Debug\menu.Properties.Resources.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\menu\obj\Debug\menu.csproj.GenerateResource.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\menu\obj\Debug\menu.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\menu\obj\Debug\menu.pdb

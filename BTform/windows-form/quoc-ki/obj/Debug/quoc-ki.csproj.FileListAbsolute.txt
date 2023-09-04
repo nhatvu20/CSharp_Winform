@@ -1,0 +1,11 @@
+D:\hoc-tap\lap-trinh\c#\windows-form\quoc-ki\bin\Debug\quoc-ki.exe.config
+D:\hoc-tap\lap-trinh\c#\windows-form\quoc-ki\bin\Debug\quoc-ki.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\quoc-ki\bin\Debug\quoc-ki.pdb
+D:\hoc-tap\lap-trinh\c#\windows-form\quoc-ki\obj\Debug\quoc-ki.csproj.AssemblyReference.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\quoc-ki\obj\Debug\quoc-ki.csproj.SuggestedBindingRedirects.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\quoc-ki\obj\Debug\quoc_ki.Form1.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\quoc-ki\obj\Debug\quoc_ki.Properties.Resources.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\quoc-ki\obj\Debug\quoc-ki.csproj.GenerateResource.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\quoc-ki\obj\Debug\quoc-ki.csproj.CoreCompileInputs.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\quoc-ki\obj\Debug\quoc-ki.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\quoc-ki\obj\Debug\quoc-ki.pdb

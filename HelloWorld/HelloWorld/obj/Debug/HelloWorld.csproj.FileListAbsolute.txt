@@ -1,0 +1,12 @@
+c:\users\sinhvien\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+c:\users\sinhvien\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+c:\users\sinhvien\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\users\sinhvien\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+c:\users\sinhvien\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb

@@ -1,0 +1,6 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\Bai1\obj\Debug\Bai1.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\Bai1\bin\Debug\Bai1.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\Bai1\bin\Debug\Bai1.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\Bai1\bin\Debug\Bai1.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\Bai1\obj\Debug\Bai1.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BaiTapVeClass\Bai1\obj\Debug\Bai1.pdb

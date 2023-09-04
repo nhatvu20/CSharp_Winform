@@ -1,0 +1,10 @@
+C:\Users\nguye\source\repos\CuaHangQLThueTruyen_doradora\CuaHangQLThueTruyen_doradora\bin\Debug\CuaHangQLThueTruyen_doradora.exe.config
+C:\Users\nguye\source\repos\CuaHangQLThueTruyen_doradora\CuaHangQLThueTruyen_doradora\bin\Debug\CuaHangQLThueTruyen_doradora.exe
+C:\Users\nguye\source\repos\CuaHangQLThueTruyen_doradora\CuaHangQLThueTruyen_doradora\bin\Debug\CuaHangQLThueTruyen_doradora.pdb
+C:\Users\nguye\source\repos\CuaHangQLThueTruyen_doradora\CuaHangQLThueTruyen_doradora\obj\Debug\CuaHangQLThueTruyen_doradora.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\CuaHangQLThueTruyen_doradora\CuaHangQLThueTruyen_doradora\obj\Debug\CuaHangQLThueTruyen_doradora.Form1.resources
+C:\Users\nguye\source\repos\CuaHangQLThueTruyen_doradora\CuaHangQLThueTruyen_doradora\obj\Debug\CuaHangQLThueTruyen_doradora.Properties.Resources.resources
+C:\Users\nguye\source\repos\CuaHangQLThueTruyen_doradora\CuaHangQLThueTruyen_doradora\obj\Debug\CuaHangQLThueTruyen_doradora.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\CuaHangQLThueTruyen_doradora\CuaHangQLThueTruyen_doradora\obj\Debug\CuaHangQLThueTruyen_doradora.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\CuaHangQLThueTruyen_doradora\CuaHangQLThueTruyen_doradora\obj\Debug\CuaHangQLThueTruyen_doradora.exe
+C:\Users\nguye\source\repos\CuaHangQLThueTruyen_doradora\CuaHangQLThueTruyen_doradora\obj\Debug\CuaHangQLThueTruyen_doradora.pdb

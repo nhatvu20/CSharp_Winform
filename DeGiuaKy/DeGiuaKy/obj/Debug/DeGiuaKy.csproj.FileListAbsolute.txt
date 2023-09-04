@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\DeGiuaKy\DeGiuaKy\bin\Debug\DeGiuaKy.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\DeGiuaKy\DeGiuaKy\bin\Debug\DeGiuaKy.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\DeGiuaKy\DeGiuaKy\bin\Debug\DeGiuaKy.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\DeGiuaKy\DeGiuaKy\obj\Debug\DeGiuaKy.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\DeGiuaKy\DeGiuaKy\obj\Debug\DeGiuaKy.Form1.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\DeGiuaKy\DeGiuaKy\obj\Debug\DeGiuaKy.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\DeGiuaKy\DeGiuaKy\obj\Debug\DeGiuaKy.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\DeGiuaKy\DeGiuaKy\obj\Debug\DeGiuaKy.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\DeGiuaKy\DeGiuaKy\obj\Debug\DeGiuaKy.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\DeGiuaKy\DeGiuaKy\obj\Debug\DeGiuaKy.pdb

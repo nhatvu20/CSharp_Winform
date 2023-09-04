@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\TH2\bin\Debug\TH2.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\TH2\bin\Debug\TH2.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\TH2\bin\Debug\TH2.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\TH2\obj\Debug\TH2.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\TH2\obj\Debug\TH2.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\TH2\obj\Debug\TH2.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\TH2\obj\Debug\TH2.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\TH2\obj\Debug\TH2.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\TH2\obj\Debug\TH2.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\TH2\obj\Debug\TH2.frmMain.resources

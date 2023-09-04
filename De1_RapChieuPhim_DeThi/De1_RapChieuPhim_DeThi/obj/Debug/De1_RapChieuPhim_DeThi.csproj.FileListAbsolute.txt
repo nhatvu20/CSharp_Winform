@@ -1,0 +1,9 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1_RapChieuPhim_DeThi\De1_RapChieuPhim_DeThi\bin\Debug\De1_RapChieuPhim_DeThi.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1_RapChieuPhim_DeThi\De1_RapChieuPhim_DeThi\bin\Debug\De1_RapChieuPhim_DeThi.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1_RapChieuPhim_DeThi\De1_RapChieuPhim_DeThi\bin\Debug\De1_RapChieuPhim_DeThi.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1_RapChieuPhim_DeThi\De1_RapChieuPhim_DeThi\obj\Debug\De1_RapChieuPhim_DeThi.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1_RapChieuPhim_DeThi\De1_RapChieuPhim_DeThi\obj\Debug\De1_RapChieuPhim_DeThi.Form1.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1_RapChieuPhim_DeThi\De1_RapChieuPhim_DeThi\obj\Debug\De1_RapChieuPhim_DeThi.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1_RapChieuPhim_DeThi\De1_RapChieuPhim_DeThi\obj\Debug\De1_RapChieuPhim_DeThi.csproj.GenerateResource.Cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1_RapChieuPhim_DeThi\De1_RapChieuPhim_DeThi\obj\Debug\De1_RapChieuPhim_DeThi.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\De1_RapChieuPhim_DeThi\De1_RapChieuPhim_DeThi\obj\Debug\De1_RapChieuPhim_DeThi.pdb

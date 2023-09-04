@@ -1,0 +1,5 @@
+c:\users\sinhvien\documents\visual studio 2013\Projects\HelloWorld\Bai5\bin\Debug\Bai5.exe.config
+c:\users\sinhvien\documents\visual studio 2013\Projects\HelloWorld\Bai5\bin\Debug\Bai5.exe
+c:\users\sinhvien\documents\visual studio 2013\Projects\HelloWorld\Bai5\bin\Debug\Bai5.pdb
+c:\users\sinhvien\documents\visual studio 2013\Projects\HelloWorld\Bai5\obj\Debug\Bai5.exe
+c:\users\sinhvien\documents\visual studio 2013\Projects\HelloWorld\Bai5\obj\Debug\Bai5.pdb

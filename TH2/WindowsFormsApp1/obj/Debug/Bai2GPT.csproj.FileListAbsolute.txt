@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\WindowsFormsApp1\obj\Debug\Bai2GPT.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\WindowsFormsApp1\obj\Debug\Bai2GPT.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\TH2\WindowsFormsApp1\obj\Debug\Bai2GPT.csproj.AssemblyReference.cache

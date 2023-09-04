@@ -1,0 +1,10 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT05\Bai5\bin\Debug\Bai5.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT05\Bai5\bin\Debug\Bai5.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT05\Bai5\bin\Debug\Bai5.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT05\Bai5\obj\Debug\Bai5.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT05\Bai5\obj\Debug\Bai5.Form1.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT05\Bai5\obj\Debug\Bai5.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT05\Bai5\obj\Debug\Bai5.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT05\Bai5\obj\Debug\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT05\Bai5\obj\Debug\Bai5.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT05\Bai5\obj\Debug\Bai5.pdb

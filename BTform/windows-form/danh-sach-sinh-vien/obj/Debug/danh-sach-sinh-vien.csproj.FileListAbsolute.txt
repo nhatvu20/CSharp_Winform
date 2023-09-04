@@ -1,0 +1,11 @@
+D:\hoc-tap\lap-trinh\c#\windows-form\danh-sach-sinh-vien\bin\Debug\danh-sach-sinh-vien.exe.config
+D:\hoc-tap\lap-trinh\c#\windows-form\danh-sach-sinh-vien\bin\Debug\danh-sach-sinh-vien.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\danh-sach-sinh-vien\bin\Debug\danh-sach-sinh-vien.pdb
+D:\hoc-tap\lap-trinh\c#\windows-form\danh-sach-sinh-vien\obj\Debug\danh-sach-sinh-vien.csproj.AssemblyReference.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\danh-sach-sinh-vien\obj\Debug\danh-sach-sinh-vien.csproj.SuggestedBindingRedirects.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\danh-sach-sinh-vien\obj\Debug\danh_sach_sinh_vien.Form1.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\danh-sach-sinh-vien\obj\Debug\danh_sach_sinh_vien.Properties.Resources.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\danh-sach-sinh-vien\obj\Debug\danh-sach-sinh-vien.csproj.GenerateResource.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\danh-sach-sinh-vien\obj\Debug\danh-sach-sinh-vien.csproj.CoreCompileInputs.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\danh-sach-sinh-vien\obj\Debug\danh-sach-sinh-vien.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\danh-sach-sinh-vien\obj\Debug\danh-sach-sinh-vien.pdb

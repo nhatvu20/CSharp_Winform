@@ -1,0 +1,7 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT02\BT02\bin\Debug\BT02.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT02\BT02\bin\Debug\BT02.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT02\BT02\bin\Debug\BT02.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT02\BT02\obj\Debug\BT02.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT02\BT02\obj\Debug\BT02.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT02\BT02\obj\Debug\BT02.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BT02\BT02\obj\Debug\BT02.pdb

@@ -1,0 +1,9 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\CT_QLCB\CT_QLCB\bin\Debug\CT_QLCB.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\CT_QLCB\CT_QLCB\bin\Debug\CT_QLCB.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\CT_QLCB\CT_QLCB\bin\Debug\CT_QLCB.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\CT_QLCB\CT_QLCB\obj\Debug\CT_QLCB.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\CT_QLCB\CT_QLCB\obj\Debug\CT_QLCB.Form1.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\CT_QLCB\CT_QLCB\obj\Debug\CT_QLCB.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\CT_QLCB\CT_QLCB\obj\Debug\CT_QLCB.csproj.GenerateResource.Cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\CT_QLCB\CT_QLCB\obj\Debug\CT_QLCB.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\CT_QLCB\CT_QLCB\obj\Debug\CT_QLCB.pdb

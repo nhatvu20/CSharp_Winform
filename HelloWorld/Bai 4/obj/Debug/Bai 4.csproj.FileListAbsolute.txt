@@ -1,0 +1,7 @@
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\Bai 4\bin\Debug\Bai 4.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\Bai 4\bin\Debug\Bai 4.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\Bai 4\bin\Debug\Bai 4.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\Bai 4\obj\Debug\Bai 4.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\Bai 4\obj\Debug\Bai 4.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\Bai 4\obj\Debug\Bai 4.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\HelloWorld\Bai 4\obj\Debug\Bai 4.pdb

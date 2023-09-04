@@ -1,0 +1,11 @@
+D:\hoc-tap\lap-trinh\c#\windows-form\uoc-so\bin\Debug\uoc-so.exe.config
+D:\hoc-tap\lap-trinh\c#\windows-form\uoc-so\bin\Debug\uoc-so.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\uoc-so\bin\Debug\uoc-so.pdb
+D:\hoc-tap\lap-trinh\c#\windows-form\uoc-so\obj\Debug\uoc-so.csproj.AssemblyReference.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\uoc-so\obj\Debug\uoc-so.csproj.SuggestedBindingRedirects.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\uoc-so\obj\Debug\uoc_so.Form1.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\uoc-so\obj\Debug\uoc_so.Properties.Resources.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\uoc-so\obj\Debug\uoc-so.csproj.GenerateResource.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\uoc-so\obj\Debug\uoc-so.csproj.CoreCompileInputs.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\uoc-so\obj\Debug\uoc-so.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\uoc-so\obj\Debug\uoc-so.pdb

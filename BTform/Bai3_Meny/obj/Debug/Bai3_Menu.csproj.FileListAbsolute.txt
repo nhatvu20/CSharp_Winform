@@ -1,0 +1,20 @@
+C:\Users\nguye\source\repos\BTform\Bai3_Meny\bin\Debug\Bai3_Meny.exe.config
+C:\Users\nguye\source\repos\BTform\Bai3_Meny\bin\Debug\Bai3_Meny.exe
+C:\Users\nguye\source\repos\BTform\Bai3_Meny\bin\Debug\Bai3_Meny.pdb
+C:\Users\nguye\source\repos\BTform\Bai3_Meny\obj\Debug\Bai3_Menu.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\BTform\Bai3_Meny\obj\Debug\Bai3_Meny.Form1.resources
+C:\Users\nguye\source\repos\BTform\Bai3_Meny\obj\Debug\Bai3_Meny.Properties.Resources.resources
+C:\Users\nguye\source\repos\BTform\Bai3_Meny\obj\Debug\Bai3_Menu.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\BTform\Bai3_Meny\obj\Debug\Bai3_Menu.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\BTform\Bai3_Meny\obj\Debug\Bai3_Meny.exe
+C:\Users\nguye\source\repos\BTform\Bai3_Meny\obj\Debug\Bai3_Meny.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\Bai3_Meny\bin\Debug\Bai3_Meny.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\Bai3_Meny\bin\Debug\Bai3_Meny.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\Bai3_Meny\bin\Debug\Bai3_Meny.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\Bai3_Meny\obj\Debug\Bai3_Menu.csproj.AssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\Bai3_Meny\obj\Debug\Bai3_Meny.Form1.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\Bai3_Meny\obj\Debug\Bai3_Meny.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\Bai3_Meny\obj\Debug\Bai3_Menu.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\Bai3_Meny\obj\Debug\Bai3_Menu.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\Bai3_Meny\obj\Debug\Bai3_Meny.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\Bai3_Meny\obj\Debug\Bai3_Meny.pdb

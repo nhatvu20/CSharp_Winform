@@ -1,0 +1,5 @@
+c:\users\sinhvien\documents\visual studio 2013\Projects\BaiTH2_Vu\Bai3\bin\Debug\Bai3.exe.config
+c:\users\sinhvien\documents\visual studio 2013\Projects\BaiTH2_Vu\Bai3\bin\Debug\Bai3.exe
+c:\users\sinhvien\documents\visual studio 2013\Projects\BaiTH2_Vu\Bai3\bin\Debug\Bai3.pdb
+c:\users\sinhvien\documents\visual studio 2013\Projects\BaiTH2_Vu\Bai3\obj\Debug\Bai3.exe
+c:\users\sinhvien\documents\visual studio 2013\Projects\BaiTH2_Vu\Bai3\obj\Debug\Bai3.pdb

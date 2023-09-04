@@ -1,0 +1,20 @@
+D:\CSharp\Thi\Bai1\dia\dia\bin\Debug\dia.exe.config
+D:\CSharp\Thi\Bai1\dia\dia\bin\Debug\dia.exe
+D:\CSharp\Thi\Bai1\dia\dia\bin\Debug\dia.pdb
+D:\CSharp\Thi\Bai1\dia\dia\obj\Debug\dia.csproj.AssemblyReference.cache
+D:\CSharp\Thi\Bai1\dia\dia\obj\Debug\dia.csproj.SuggestedBindingRedirects.cache
+D:\CSharp\Thi\Bai1\dia\dia\obj\Debug\dia.Form1.resources
+D:\CSharp\Thi\Bai1\dia\dia\obj\Debug\dia.Properties.Resources.resources
+D:\CSharp\Thi\Bai1\dia\dia\obj\Debug\dia.csproj.GenerateResource.cache
+D:\CSharp\Thi\Bai1\dia\dia\obj\Debug\dia.csproj.CoreCompileInputs.cache
+D:\CSharp\Thi\Bai1\dia\dia\obj\Debug\dia.exe
+D:\CSharp\Thi\Bai1\dia\dia\obj\Debug\dia.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\RapChieuPhim\dia\bin\Debug\dia.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\RapChieuPhim\dia\obj\Debug\dia.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\RapChieuPhim\dia\obj\Debug\dia.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\RapChieuPhim\dia\bin\Debug\dia.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\RapChieuPhim\dia\bin\Debug\dia.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\RapChieuPhim\dia\obj\Debug\dia.csprojResolveAssemblyReference.cache
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\RapChieuPhim\dia\obj\Debug\dia.Form1.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\RapChieuPhim\dia\obj\Debug\dia.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\RapChieuPhim\dia\obj\Debug\dia.csproj.GenerateResource.Cache

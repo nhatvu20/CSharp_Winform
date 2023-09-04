@@ -1,0 +1,13 @@
+C:\Users\nguye\source\repos\BTform\BTform\bin\Debug\BTform.exe.config
+C:\Users\nguye\source\repos\BTform\BTform\bin\Debug\BTform.exe
+C:\Users\nguye\source\repos\BTform\BTform\bin\Debug\BTform.pdb
+C:\Users\nguye\source\repos\BTform\BTform\obj\Debug\BTform.csproj.AssemblyReference.cache
+C:\Users\nguye\source\repos\BTform\BTform\obj\Debug\BTform.Form1.resources
+C:\Users\nguye\source\repos\BTform\BTform\obj\Debug\BTform.Properties.Resources.resources
+C:\Users\nguye\source\repos\BTform\BTform\obj\Debug\BTform.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\BTform\BTform\obj\Debug\BTform.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\BTform\BTform\obj\Debug\BTform.exe
+C:\Users\nguye\source\repos\BTform\BTform\obj\Debug\BTform.pdb
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\BTform\bin\Debug\BTform.exe.config
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\BTform\obj\Debug\BTform.exe
+C:\Users\nguye\OneDrive\Documents\Code C#\ThucHanh\BTform\BTform\obj\Debug\BTform.pdb

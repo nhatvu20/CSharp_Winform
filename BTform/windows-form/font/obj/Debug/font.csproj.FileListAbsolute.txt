@@ -1,0 +1,11 @@
+D:\hoc-tap\lap-trinh\c#\windows-form\font\obj\Debug\font.csproj.AssemblyReference.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\font\obj\Debug\font.csproj.SuggestedBindingRedirects.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\font\obj\Debug\font.Form1.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\font\obj\Debug\font.Properties.Resources.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\font\obj\Debug\font.csproj.GenerateResource.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\font\obj\Debug\font.csproj.CoreCompileInputs.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\font\bin\Debug\font.exe.config
+D:\hoc-tap\lap-trinh\c#\windows-form\font\bin\Debug\font.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\font\bin\Debug\font.pdb
+D:\hoc-tap\lap-trinh\c#\windows-form\font\obj\Debug\font.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\font\obj\Debug\font.pdb

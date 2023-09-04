@@ -1,0 +1,10 @@
+C:\Users\nguye\source\repos\BTform\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\nguye\source\repos\BTform\Bai2\bin\Debug\Bai2.exe
+C:\Users\nguye\source\repos\BTform\Bai2\bin\Debug\Bai2.pdb
+C:\Users\nguye\source\repos\BTform\Bai2\obj\Debug\Bai2.Form1.resources
+C:\Users\nguye\source\repos\BTform\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+C:\Users\nguye\source\repos\BTform\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+C:\Users\nguye\source\repos\BTform\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\nguye\source\repos\BTform\Bai2\obj\Debug\Bai2.exe
+C:\Users\nguye\source\repos\BTform\Bai2\obj\Debug\Bai2.pdb
+C:\Users\nguye\source\repos\BTform\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache

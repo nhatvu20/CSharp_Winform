@@ -1,0 +1,11 @@
+D:\hoc-tap\lap-trinh\c#\windows-form\dinh-dang\bin\Debug\dinh-dang.exe.config
+D:\hoc-tap\lap-trinh\c#\windows-form\dinh-dang\bin\Debug\dinh-dang.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\dinh-dang\bin\Debug\dinh-dang.pdb
+D:\hoc-tap\lap-trinh\c#\windows-form\dinh-dang\obj\Debug\dinh-dang.csproj.AssemblyReference.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\dinh-dang\obj\Debug\dinh-dang.csproj.SuggestedBindingRedirects.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\dinh-dang\obj\Debug\dinh_dang.Form1.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\dinh-dang\obj\Debug\dinh_dang.Properties.Resources.resources
+D:\hoc-tap\lap-trinh\c#\windows-form\dinh-dang\obj\Debug\dinh-dang.csproj.GenerateResource.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\dinh-dang\obj\Debug\dinh-dang.csproj.CoreCompileInputs.cache
+D:\hoc-tap\lap-trinh\c#\windows-form\dinh-dang\obj\Debug\dinh-dang.exe
+D:\hoc-tap\lap-trinh\c#\windows-form\dinh-dang\obj\Debug\dinh-dang.pdb
